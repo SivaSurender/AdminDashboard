@@ -1,0 +1,13 @@
+.topnav {
+  margin-left: 65px;
+  border-bottom: 3px solid #e9e9eb;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+.brand {
+  margin: 0;
+}
